@@ -6,11 +6,20 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
+  <a href="#-intruções-do-projeto">Layout do projeto</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
 </p>
 
+---
+
+## ⚙️ Layout do projeto
+
+- [x] Layout do desafio desktop- : ![Screenshot](/layouts/alurinha-layout-desktop.png)
+
+- [x] Layout do desafio mobile- : ![Screenshot](/layouts/alurinha-layout-mobile.png)
+---
 
 ## 💻 Sobre o projeto
 
