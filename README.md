@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> 
-	🚧 Alurinha 🚀 Em andamento 🚀 🚧
+	🚧 Alurinha 🚀 Finalizado 🚀 🚧
 </h1>
 
 <p align="center">
